@@ -12,6 +12,7 @@
 		DA63F41C23109DA4005CC548 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA63F41A23109DA4005CC548 /* Main.storyboard */; };
 		DA63F41E23109DA6005CC548 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA63F41D23109DA6005CC548 /* Assets.xcassets */; };
 		DA63F42123109DA6005CC548 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA63F41F23109DA6005CC548 /* LaunchScreen.storyboard */; };
+		DA63F4292310A4D5005CC548 /* principal_skinner_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA63F4282310A4D5005CC548 /* principal_skinner_3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DA63F41D23109DA6005CC548 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA63F42023109DA6005CC548 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DA63F42223109DA6005CC548 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DA63F4282310A4D5005CC548 /* principal_skinner_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = principal_skinner_3.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				DA63F41623109DA4005CC548 /* AppDelegate.swift */,
 				DA63F41823109DA4005CC548 /* ViewController.swift */,
 				DA63F41A23109DA4005CC548 /* Main.storyboard */,
+				DA63F4282310A4D5005CC548 /* principal_skinner_3.jpg */,
 				DA63F41D23109DA6005CC548 /* Assets.xcassets */,
 				DA63F41F23109DA6005CC548 /* LaunchScreen.storyboard */,
 				DA63F42223109DA6005CC548 /* Info.plist */,
@@ -125,6 +128,7 @@
 				DA63F42123109DA6005CC548 /* LaunchScreen.storyboard in Resources */,
 				DA63F41E23109DA6005CC548 /* Assets.xcassets in Resources */,
 				DA63F41C23109DA4005CC548 /* Main.storyboard in Resources */,
+				DA63F4292310A4D5005CC548 /* principal_skinner_3.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
